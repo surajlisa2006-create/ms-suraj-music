@@ -303,7 +303,16 @@ export const SAMPLE_SONGS: Song[] = [
     year: 2024,
     plays: 319500,
   }
-];
+];{
+    id: 'song-gerua',
+      title: 'Gerua',
+        artist: 'Arijit Singh',
+          duration: '4:43',
+            audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3', 
+              coverUrl: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819'
+              }
+          
+}
 
 export const INITIAL_PLAYLISTS: Playlist[] = [
   {
