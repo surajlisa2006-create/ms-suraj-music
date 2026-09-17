@@ -1,0 +1,6 @@
+{
+  "name": "Music Library",
+  "description": "A clean, modern, and dark-themed music library with searchable tracks, albums, artists, playlists, favorites, and a full-featured audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
